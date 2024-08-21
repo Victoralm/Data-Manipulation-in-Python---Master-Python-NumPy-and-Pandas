@@ -1,8 +1,8 @@
 # Data-Manipulation-in-Python---Master-Python-NumPy-and-Pandas
 
-Vídeo curso: Data Manipulation in Python - Master Python, NumPy, and Pandas
+Vídeo course: Data Manipulation in Python - Master Python, NumPy, and Pandas
 
-By :Meta Brains
+By: Meta Brains
 
 On: PacktPub
 
