@@ -1,4 +1,4 @@
-# Data-Manipulation-in-Python---Master-Python-NumPy-and-Pandas
+# Data Manipulation in Python - Master Python, NumPy and Pandas
 
 Vídeo course: Data Manipulation in Python - Master Python, NumPy, and Pandas
 
